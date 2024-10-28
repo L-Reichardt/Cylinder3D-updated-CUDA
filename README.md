@@ -31,7 +31,7 @@ reaA = resA.replace_feature(self.bn1(resA.features)) should be: resA = resA.repl
 ## Installation
 
 ### Weights
-The weights with mIOU 63.2 (Validation, vs 64.3 Original) can be downloaded [here](https://drive.google.com/drive/folders/1LBCRHz2VyeSz4M27GiqhoRuzlKyFvbo1?usp=sharing) and should be placed into the ./network folder.
+The weights with mIOU 63.2 (Validation, vs 64.3 Original) can be downloaded [here](https://drive.google.com/file/d/1slLJwOGNO8gJ1oTFTH5yTg9CzM1Ov96J/view?usp=sharing) and should be placed into the ./network folder.
 
 Weights are trained according to the original Cylinder3D, and not according to knowledge distillation (Cylinder3D PVKD).
 
